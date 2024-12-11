@@ -1,4 +1,4 @@
-# hexlet-task-two
+# task-2
 task 2 for hexlet challenge
 
 Как я подходил к созданию сценария тестирования
